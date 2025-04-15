@@ -21,3 +21,4 @@ fn main() {
     const TRIANGLES: usize = 5;
     draw_tree(TRIANGLES);
 }
+
