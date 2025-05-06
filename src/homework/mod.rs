@@ -6,10 +6,12 @@ mod hw05;
 mod hw06;
 mod hw07;
 mod hw08;
-mod hw09;
-mod hw10;
+pub mod hw09;
+pub mod hw10;
 mod hw11;
 mod hw12;
 mod hw13;
 mod hw14;
 mod hw15;
+
+
